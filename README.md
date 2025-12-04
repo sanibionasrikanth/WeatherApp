@@ -38,6 +38,7 @@ OpenWeatherMap API (or your API of choice)
 📂 Project Structure:
 
 weatherapp/
+
 │── images/
 │     ├── image1.png
 │     ├── image2.png
@@ -51,8 +52,10 @@ weatherapp/
 ⚙️ How It Works:
 
 Uses fetch() to call the API:
+
 fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_KEY`)
 
 Parses JSON data and updates the UI dynamically
+
 Displays icons based on weather condition
 
