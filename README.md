@@ -1,3 +1,5 @@
+🌤️ Weather App:
+
 A simple and responsive Weather Application built using HTML, CSS, and JavaScript.
 It fetches real-time weather data using an external API and displays temperature, weather status.
 
@@ -34,6 +36,7 @@ JavaScript (ES6)
 OpenWeatherMap API (or your API of choice)
 
 📂 Project Structure:
+
 weatherapp/
 │── images/
 │     ├── image1.png
