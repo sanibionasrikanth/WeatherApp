@@ -1,7 +1,8 @@
 A simple and responsive Weather Application built using HTML, CSS, and JavaScript.
 It fetches real-time weather data using an external API and displays temperature, weather status.
 
-🚀 Features
+🚀 Features:
+
 Search weather by city name
 
 Shows:
